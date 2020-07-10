@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px ;
+}
+p.lead{
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgba(0, 85, 255, 0.842) ;
+    background-color:chocolate;
+}
+.jumbotron{
+    background-image:url("../Images/modern.png");
+    height: 800px;
+    width: 100%;
+}
